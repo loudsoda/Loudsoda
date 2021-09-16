@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @loudsoda aka Caleb
+- 👀 I’m interested in Games, GIS, and automation!
+- 🌱 I’m currently learning C++, GDScript, and more and more python
+- 📫 How to reach me CalebEllisGIS@gmail.com
